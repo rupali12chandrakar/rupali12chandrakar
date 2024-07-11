@@ -1,7 +1,7 @@
-- 👋<br> Hi, I’m RUPALI CHANDRAKAR 
+- 👋 Hi, I’m RUPALI CHANDRAKAR 
 - 👀 AI ENTHUSIAST...
 - 🌱 I’m currently pursuing BTech in CSE(AI)...
-- 📫 How to reach me_ ...</br>
+- 📫 How to reach me_ ...
 
 <!---
 rupali12chandrakar/rupali12chandrakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
